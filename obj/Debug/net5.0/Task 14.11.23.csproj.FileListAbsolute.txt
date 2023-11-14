@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\bin\Debug\net5.0\Task 14.11.23.exe
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\bin\Debug\net5.0\Task 14.11.23.deps.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\bin\Debug\net5.0\Task 14.11.23.runtimeconfig.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\bin\Debug\net5.0\Task 14.11.23.runtimeconfig.dev.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\bin\Debug\net5.0\Task 14.11.23.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\bin\Debug\net5.0\Task 14.11.23.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\obj\Debug\net5.0\Task 14.11.23.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\obj\Debug\net5.0\Task 14.11.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\obj\Debug\net5.0\Task 14.11.23.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\obj\Debug\net5.0\Task 14.11.23.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\obj\Debug\net5.0\Task 14.11.23.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\obj\Debug\net5.0\Task 14.11.23.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\obj\Debug\net5.0\refint\Task 14.11.23.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\obj\Debug\net5.0\Task 14.11.23.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\obj\Debug\net5.0\Task 14.11.23.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\Task 14.11.23\obj\Debug\net5.0\ref\Task 14.11.23.dll
